@@ -1,1 +1,1 @@
-Bienvenue dans ma boutique en ligne 
+Bienvenue dans ma boutique en ligne
