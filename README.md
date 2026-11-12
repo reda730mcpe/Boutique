@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Bienvenue dans ma boutique en ligne
-=======
 # Boutique
->>>>>>> origin/main
+
+Bienvenue dans ma boutique en ligne
